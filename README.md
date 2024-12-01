@@ -1,4 +1,4 @@
-# Reinforcement Learning Coursework 1
+# Reinforcement Learning Project 1
 
 ## Overview
 
